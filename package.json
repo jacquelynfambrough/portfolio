@@ -1,0 +1,16 @@
+{
+  "name": "portfolio_js",
+  "version": "1.0.0",
+  "description": "Project Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "portfolio"
+  },
+  "author": "Jacquelyn Fambrough",
+  "license": "ISC"
+}
