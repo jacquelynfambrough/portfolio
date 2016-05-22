@@ -12,5 +12,8 @@
     "url": "portfolio"
   },
   "author": "Jacquelyn Fambrough",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^4.4.17"
+  }
 }
