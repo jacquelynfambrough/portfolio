@@ -1,5 +1,5 @@
 body {
-
+  background-color: white
 }
 
 h1 {
@@ -10,6 +10,14 @@ h1 {
   width: 700px
 }
 
+#tic-tac-toe img {
+  width: 700px
+}
+
 #icons {
   text-align:center
+}
+
+.jumbotron {
+  text-align: center
 }
