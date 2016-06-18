@@ -12,7 +12,11 @@ nav {
 
 .body-pad{
   margin-top: 100px;
-  
+
+}
+
+#self {
+  border-radius:100%;
 }
 
 #awfulix img {
@@ -40,6 +44,10 @@ nav {
 }
 
 .jumbotron {
+  text-align: center
+}
+
+.about-me {
   text-align: center
 }
 
