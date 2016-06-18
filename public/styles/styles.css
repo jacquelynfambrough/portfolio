@@ -6,6 +6,11 @@ h1 {
   text-align: center
 }
 
+#awfulix img {
+  width: 700px;
+  border: 8px solid lightgray
+}
+
 #plantastic img {
   width: 700px;
   border: 8px solid lightgray
