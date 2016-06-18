@@ -6,6 +6,15 @@ h1 {
   text-align: center
 }
 
+nav {
+  position:fixed;
+}
+
+.body-pad{
+  margin-top: 100px;
+  
+}
+
 #awfulix img {
   width: 700px;
   border: 8px solid lightgray
