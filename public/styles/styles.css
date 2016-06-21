@@ -7,48 +7,57 @@ h1 {
 }
 
 nav {
-  position:fixed;
-}
-
-.body-pad{
-  margin-top: 100px;
-
-}
-
-#self {
-  border-radius:100%;
-}
-
-#awfulix img {
-  width: 700px;
-  border: 8px solid lightgray
-}
-
-#plantastic img {
-  width: 700px;
-  border: 8px solid lightgray
-}
-
-#creative-writing img {
-  width: 700px;
-  border: 8px solid lightgray
-}
-
-#tic-tac-toe img {
-  width: 700px;
-  border: 8px solid lightgray
-}
-
-#icons {
-  text-align:center
+  position:fixed
 }
 
 .jumbotron {
   text-align: center
 }
 
-#about-me {
+.body-pad{
+  margin-top: 100px
+}
+
+#about-me img {
+  border-radius:100%;
   text-align: center
+}
+
+#awfulix img {
+  border: 1px solid lightgrey
+}
+
+#plantastic img {
+  border: 1px solid lightgrey;
+  width: 730px;
+  height: 360.55
+}
+
+#creative-writing img {
+  border: 1px solid lightgrey;
+  width: 730px;
+  height: 360.55
+}
+
+#tic-tac-toe img {
+  border: 1px solid lightgrey;
+  width: 730px;
+  height: 360.55
+}
+
+#broad-city img {
+  border: 1px solid lightgrey;
+  width: 730px;
+  height: 360.55
+}
+
+#icons {
+  text-align:center
+}
+
+#about-me {
+  text-align: center;
+  align-items: center
 }
 
 #resume {
