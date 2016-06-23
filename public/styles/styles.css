@@ -2,10 +2,13 @@ body {
   background-color: white
 }
 
-h1 {
-  text-align: center;
+.container h1 {
+  text-align: right;
   color: white;
-  margin-top:250px
+  text-shadow:  2px 2px 4px lime;
+  margin-top:146px;
+  margin-right:15px;
+  font-size: 65px
 }
 
 nav {
@@ -13,10 +16,10 @@ nav {
 }
 
 .jumbotron {
-  background-image: url("../images/unsplash.jpeg");
-  background-position: center;
+  background-image: url("../images/shel.jpeg");
+  background-size:cover;
   color: white;
-  margin-left: -51px;
+  margin-left: -115px;
   position: fixed;
   margin-bottom: 50px;
   z-index: -1;
@@ -30,52 +33,36 @@ nav {
   z-index: 1
 }
 
+.col-md-4 {
+  margin-top: 135px
+}
+
 #projects {
-  margin-top: 630px
+  margin-top: 680px;
+  text-align: center
 }
 
 #about-me img {
   border-radius:100%;
-  text-align: center
-}
-
-#awfulix img {
-  border: 1px solid lightgrey
-}
-
-#plantastic img {
-  border: 1px solid lightgrey;
-  width: 730px;
-  height: 360.55
-}
-
-#creative-writing img {
-  border: 1px solid lightgrey;
-  width: 730px;
-  height: 360.55
-}
-
-#tic-tac-toe img {
-  border: 1px solid lightgrey;
-  width: 730px;
-  height: 360.55
-}
-
-#broad-city img {
-  border: 1px solid lightgrey;
-  width: 730px;
-  height: 360.55
+  text-align: center;
+  margin-top:-150px
 }
 
 #icons {
-  text-align:center
+  text-align:center;
+  margin-bottom: 100px
 }
 
 #about-me {
   text-align: center;
-  align-items: center
+  margin-bottom: 100px
 }
 
 #resume {
+  margin-bottom:100px;
   text-align: center
+}
+
+hr {
+  margin-bottom: 100px
 }
