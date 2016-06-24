@@ -1,7 +1,7 @@
 //server.js ---> SERVER!
 var express = require('express');
 var bodyParser = require('body-parser');
-var mongoose = required('mongoose');
+var mongoose = require('mongoose');
 
 // calling express in app variable.
 var app = express();
