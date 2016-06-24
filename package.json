@@ -14,7 +14,7 @@
   "author": "Jacquelyn Fambrough",
   "license": "ISC",
   "dependencies": {
+    "debug-log": "^1.0.0",
     "mongoose": "^4.4.17"
   }
-
 }
