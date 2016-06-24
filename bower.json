@@ -1,0 +1,21 @@
+{
+  "name": "portfolio_js",
+  "description": "Project Portfolio",
+  "main": "server.js",
+  "authors": [
+    "Jacquelyn Fambrough"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/jacquelynfambrough/portfolio",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "neon-animation": "PolymerElements/neon-animation#^1.2.3"
+  }
+}
