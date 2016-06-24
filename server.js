@@ -1,7 +1,7 @@
 //server.js ---> SERVER!
 var express = require('express');
 var bodyParser = require('body-parser');
-var mongoose = require('mongoose');
+
 
 // calling express in app variable.
 var app = express();
@@ -10,7 +10,7 @@ var app = express();
 /**********
 SERVER
 ***********/
-mongoose.connect('mongodb://127.0.0.1:27017/test');
+
 // serve static files in public
 app.use(express.static(__dirname + '/public'));
 
