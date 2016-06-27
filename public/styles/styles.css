@@ -18,12 +18,11 @@ nav {
 .jumbotron {
   background-image: url("../images/shel.jpeg");
   background-size:cover;
-  background-position: center;
   color: white;
   /*margin-left: -128px;*/
   position: fixed;
   /*margin-bottom: 50px;*/
-  z-index: -4;
+  z-index: -1;
   height: 100vh;
   width: 100vw
 }
