@@ -31,33 +31,33 @@ nav {
 
 #projects {
   margin-top: 680px;
-  text-align: center
+  text-align: center;
 }
 
 #about-me img {
   border-radius:100%;
   text-align: center;
   margin-top: 50px;
-
+  margin-bottom:25px;
 }
 
 #icons {
   text-align:center;
-  margin-bottom: 100px
+  margin-bottom: 100px;
 }
 
 #about-me {
   text-align: center;
-  margin-bottom: 100px
+  margin-bottom: 100px;
 }
 
 #resume {
   margin-bottom:100px;
-  text-align: center
+  text-align: center;
 }
 
 hr {
-  margin-bottom: 100px
+  margin-bottom: 100px;
 }
 
 .carousel-inner > .item > img,
@@ -87,20 +87,6 @@ hr {
   color:lime;
 }
 
-
-
-.carousel-indicators li {
-    display: inline-block;
-    width: 10px;
-    height: 10px;
-    margin: 1px;
-    text-indent: -999px;
-    cursor: pointer;
-    background-color: #000\9;
-    background-color: rgba(0,0,0,0);
-    border: 1px solid grey;
-    border-radius: 10px;
-}
 .carousel-indicators li {
     display: inline-block;
     width: 10px;
