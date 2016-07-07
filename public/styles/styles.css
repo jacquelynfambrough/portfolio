@@ -17,6 +17,10 @@ nav {
   position:fixed
 }
 
+nav ul li:hover {
+  background-color:lime;
+}
+
 
 .body-pad{
   margin-top: 45px;
@@ -94,8 +98,12 @@ hr {
     cursor: pointer;
     background-color: #000\9;
     background-color: rgba(0,0,0,0);
-    border: 1px solid grey;
+    border: 6px solid lightgrey;
     border-radius: 10px;
+}
+
+.carousel-indicators li:hover {
+  border: 6px solid lime;
 }
 
 @font-face {
