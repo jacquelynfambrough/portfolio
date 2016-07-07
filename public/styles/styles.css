@@ -1,5 +1,5 @@
 body {
-  background: url(../images/shel.jpeg) no-repeat center center fixed; 
+  background: url(../images/shel.jpeg) no-repeat center center fixed;
   background-size: cover;
 
 }
@@ -17,17 +17,6 @@ nav {
   position:fixed
 }
 
-/*.jumbotron {*/
-  /*background-image: url("../images/shel.jpeg");
-  background-size:cover;
-  color: white;
-  /*margin-left: -128px;*/
-  /*position: fixed;*/
-  /*margin-bottom: 50px;*/
-  /*z-index: -1;
-  height: 100vh;*/
-  /*width: 100vw*/
-/*}*/
 
 .body-pad{
   margin-top: 45px;
@@ -35,8 +24,9 @@ nav {
   z-index: 1
 }
 
-.col-md-4 {
-  margin-top: 135px
+.project-info {
+  margin-bottom: 200px;
+  text-align:center;
 }
 
 #projects {
@@ -47,7 +37,8 @@ nav {
 #about-me img {
   border-radius:100%;
   text-align: center;
-  margin-top:-150px
+  margin-top: 50px;
+
 }
 
 #icons {
@@ -67,4 +58,58 @@ nav {
 
 hr {
   margin-bottom: 100px
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 70%;
+  margin: auto;
+}
+
+
+.carousel-control.left {
+  background: none;
+  color:grey;
+}
+
+.carousel-control.right {
+  background: none;
+  color:grey;
+}
+
+.carousel-control.left:hover {
+  background: none;
+  color:lime;
+}
+
+.carousel-control.right:hover {
+  background: none;
+  color:lime;
+}
+
+
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid grey;
+    border-radius: 10px;
 }
