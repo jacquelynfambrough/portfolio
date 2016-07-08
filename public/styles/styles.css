@@ -62,6 +62,9 @@ hr {
   margin-bottom: 100px;
 }
 
+.item {
+  margin:10px;
+}
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   width: 70%;
