@@ -1,7 +1,7 @@
 body {
-  background: url(../images/shel.jpeg) no-repeat center top;
+  background: url(../images/shel.jpeg) no-repeat center top fixed;
   background-size: 100vw;
-  background-position: fixed !important;
+  background-attachment: fixed;
   margin-top:100px;
   margin:0px;
   width: 100vw;
@@ -20,7 +20,7 @@ body {
   text-align: center;
   color: white;
   text-shadow:2px 2px 4px lime;
-  margin-top:20%;
+  margin-top:30%;
   margin-right:auto;
   font-size: 50px;
 }
