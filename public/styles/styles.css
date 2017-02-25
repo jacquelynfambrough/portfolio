@@ -1,6 +1,8 @@
 body {
-  background: url(../images/shel.jpeg) no-repeat center center fixed;
+  background: url(../images/shel.jpeg) no-repeat center top fixed;
   background-size: 100vw;
+  background-origin:padding-box;
+  padding-top:50px;
 
 }
 
@@ -8,7 +10,7 @@ body {
   text-align: right;
   color: white;
   text-shadow:2px 2px 4px lime;
-  margin-top:146px;
+  margin-top:30%;
   margin-right:auto;
   font-size: 75px;
 }
@@ -17,7 +19,7 @@ body {
   text-align: center;
   color: white;
   text-shadow:2px 2px 4px lime;
-  margin-top:146px;
+  margin-top:30%;
   margin-right:auto;
   font-size: 50px;
 }
@@ -42,7 +44,7 @@ nav ul li:hover {
 }
 
 #projects {
-  margin-top: 680px;
+  margin-top: 36vw;
   text-align: center;
 }
 
