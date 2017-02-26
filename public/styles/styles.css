@@ -76,9 +76,15 @@ hr {
 .item {
   margin:10px;
 }
+
+.carousel-inner {
+  padding-bottom:50px;
+}
+
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-  width: 70%;
+  
+  padding-left:35%;
   margin: auto;
 }
 
