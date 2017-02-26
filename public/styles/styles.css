@@ -90,11 +90,13 @@ hr {
 .carousel-control.left {
   background: none;
   color:grey;
+  margin-left:-80px;
 }
 
 .carousel-control.right {
   background: none;
   color:grey;
+  margin-right:-90px;
 }
 
 .carousel-control.left:hover {
