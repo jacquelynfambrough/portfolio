@@ -18,7 +18,7 @@ body {
   text-shadow:3px 3px 6px lime;
   margin-top:5%;
   margin-bottom:20%;
-  margin-right:3% ;
+  margin-right:3%;
   font-size: 75px;
 }
 
@@ -26,8 +26,7 @@ body {
   text-align: center;
   color: white;
   text-shadow:2px 2px 4px lime;
-  margin-top:60%;
-  margin-bottom:40%;
+  margin-top:30%;
   margin-right:0 !imporant;
   font-size: 50px;
 }
