@@ -1,6 +1,8 @@
 body {
-  background: url(../images/shel.jpeg) no-repeat center top fixed;
-  background-postion-y:50px;
+  background: url(../images/shel.jpeg) no-repeat;
+  background-position:top;
+  background-position: center;
+  background-origin: padding-top: 50px;
   background-size: 100vw;
   background-attachment: fixed !important;
   width: 100vw;
