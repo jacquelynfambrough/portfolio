@@ -1,13 +1,4 @@
 
-body {
-  background: url(../images/shel.jpeg);
-  background-position-y: 50px;
-  background-position-x: center;
-  background-size: 100vw;
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  width: 100vw;
-}
 @media (max-width: 600px) {
   body:before {
     content: "" !important;
@@ -16,7 +7,7 @@ body {
     left: 0 !important;
     top: 0 !important;
     width: 100% !important;
-    height: auto !important !important;
+    height: auto !important;
     z-index: -10 !important;
     background: url(../images/shel.jpeg) no-repeat !important;
     background-position-y: 50px !important;
@@ -27,6 +18,16 @@ body {
     background-size: cover !important;
   }
 }
+body {
+  background: url(../images/shel.jpeg);
+  background-position-y: 50px;
+  background-position-x: center;
+  background-size: 100vw;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 100vw;
+}
+
 
 #headerMdUp h1 {
   text-align: right;
