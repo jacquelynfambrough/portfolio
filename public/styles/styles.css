@@ -3,29 +3,29 @@ body {
   background: url(../images/shel.jpeg);
   background-position-y: 50px;
   background-position-x: center;
-  background-origin: padding-top: 50px;
   background-size: 100vw;
   background-attachment: fixed;
   background-repeat: no-repeat;
   width: 100vw;
 }
-
-body:before {
-  content: "";
-  display: block;
-  position: fixed;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -10;
-  background: url(../images/shel.jpeg) no-repeat;
-  background-position-y: 50px;
-  background-position-x: center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+@media (max-width: 600px) {
+  body:before {
+    content: "" !important;
+    display: block !important;
+    position: fixed !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+    height: auto !important !important;
+    z-index: -10 !important;
+    background: url(../images/shel.jpeg) no-repeat !important;
+    background-position-y: 50px !important;
+    background-position-x: center !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    -o-background-size: cover !important;
+    background-size: cover !important;
+  }
 }
 
 #headerMdUp h1 {
@@ -43,6 +43,7 @@ body:before {
   color: white;
   text-shadow:2px 2px 4px lime;
   margin-top:30%;
+  margin-bottom:20%;
   margin-right:0 !imporant;
   font-size: 50px;
 }
