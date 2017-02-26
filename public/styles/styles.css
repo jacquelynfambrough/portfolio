@@ -1,6 +1,6 @@
 
 
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   body:before {
     content: "";
     display: block;
@@ -11,6 +11,7 @@
     height: 100%;
     z-index: -10;
     background: url(../images/shel.jpeg) no-repeat center center;
+    background-position-y: 15px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -22,7 +23,6 @@ body {
   background: url(../images/shel.jpeg);
   background-position-y: 50px;
   background-position-x: center;
-  background-origin: padding-top: 50px;
   background-size: 100vw;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -44,7 +44,8 @@ body {
   text-align: center;
   color: white;
   text-shadow:2px 2px 4px lime;
-  margin-top:30%;
+  margin-top:45%;
+  margin-bottom:40%;
   margin-right:0 !imporant;
   font-size: 50px;
 }
