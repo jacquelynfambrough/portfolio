@@ -80,11 +80,9 @@ hr {
 .carousel-inner {
   padding-bottom:50px;
 }
-
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
-  
-  padding-left:35%;
+  width: 70%;
   margin: auto;
 }
 
