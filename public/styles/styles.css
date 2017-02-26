@@ -12,6 +12,7 @@
     z-index: -10;
     background: url(../images/shel.jpeg) no-repeat center center;
     background-position-y: 15px;
+    background-position-x: 20px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -44,7 +45,7 @@ body {
   text-align: center;
   color: white;
   text-shadow:2px 2px 4px lime;
-  margin-top:45%;
+  margin-top:55%;
   margin-bottom:40%;
   margin-right:0 !imporant;
   font-size: 50px;
