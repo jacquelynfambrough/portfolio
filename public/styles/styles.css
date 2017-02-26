@@ -8,7 +8,7 @@ body {
 #headerMdUp h1 {
   text-align: right;
   color: white;
-  text-shadow:2px 2px 4px lime;
+  text-shadow:3px 3px 6px lime;
   margin-top:5%;
   margin-bottom:20%;
   margin-right:3% ;
@@ -18,7 +18,7 @@ body {
 #headerSmDown h1 {
   text-align: center;
   color: white;
-  text-shadow:2px 2px 4px lime;
+  text-shadow:3px 3px 6px lime;
   margin-top:30%;
   margin-right:0 !imporant;
   font-size: 50px;
