@@ -2,8 +2,6 @@ body {
   background: url(../images/shel.jpeg) no-repeat center top fixed;
   background-size: 100vw;
   background-attachment: fixed;
-  margin-top:100px;
-  margin:0px;
   width: 100vw;
 }
 
@@ -12,6 +10,7 @@ body {
   color: white;
   text-shadow:2px 2px 4px lime;
   margin-top:5%;
+  margin-bottom:20%;
   margin-right:auto;
   font-size: 75px;
 }
