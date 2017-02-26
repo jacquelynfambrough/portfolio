@@ -5,7 +5,7 @@ body {
   width: 100vw;
 }
 
-#headerMdUp h1 {
+#headerMdUp span {
   text-align: right;
   color: white;
   text-shadow:2px 2px 4px lime;
@@ -15,7 +15,7 @@ body {
   font-size: 75px;
 }
 
-#headerSmDown h1 {
+#headerSmDown span {
   text-align: center;
   color: white;
   text-shadow:2px 2px 4px lime;
