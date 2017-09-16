@@ -86,24 +86,28 @@ hr {
 
 .carousel-inner {
   padding-bottom:50px;
+  height: 450px;
 }
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   width: 70%;
   margin: auto;
+
 }
 
 
 .carousel-control.left {
   background: none;
   color:grey;
-  margin-left:-80px;
+  margin-left:-60px;
+  margin-bottom:200px;
 }
 
 .carousel-control.right {
   background: none;
   color:grey;
-  margin-right:-80px;
+  margin-right:-60px;
+  margin-bottom:200px;
 }
 
 .carousel-control.left:hover {
