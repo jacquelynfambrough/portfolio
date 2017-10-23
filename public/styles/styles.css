@@ -11,6 +11,293 @@ body {
   width: 100vw;
 }
 
+#learn-more-ttt {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-ttt:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-awfulix {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-awfulix:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-broad-city {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-broad-city:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-plantastic {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-plantastic:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-loxa {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-loxa:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-10k {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-10k:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-ttt-m {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-ttt-m:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-awfulix-m {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-awfulix-m:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-broad-city-m {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-broad-city-m:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-plantastic-m {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-plantastic-m:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-loxa-m {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-loxa-m:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#learn-more-10k-m {
+  color:grey;
+  border-color:grey;
+  background-color:white;
+}
+
+#learn-more-10k-m:hover {
+  text-decoration:none;
+  color:lime;
+  border-color:lime;
+}
+
+#try-ttt {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-ttt:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-awfulix {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-awfulix:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-broad-city {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-broad-city:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-plantastic {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-plantastic:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-loxa {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-loxa:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-10k {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-10k:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-ttt-m {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-ttt-m:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-awfulix-m {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-awfulix-m:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-broad-city-m {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-broad-city-m:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-plantastic-m {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-plantastic-m:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-loxa-m {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-loxa-m:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
+
+#try-10k-m {
+  color:white;
+  border-color:grey;
+  background-color:grey;
+}
+
+#try-10k-m:hover {
+  background-color:lime;
+  color:white;
+  border-color:lime;
+}
 
 #headerMdUp h1 {
   text-align: right;
@@ -20,6 +307,7 @@ body {
   margin-bottom:20%;
   margin-right:3%;
   font-size: 75px;
+  font-family: 'Lobster', serif;
 }
 
 #headerSmDown h1 {
@@ -29,6 +317,13 @@ body {
   margin-top:35%;
   margin-right:0 !imporant;
   font-size: 50px;
+  font-family: 'Lobster', serif;
+}
+
+.project-titles {
+    font-family: 'Amatic SC', serif;
+    color:grey;
+    font-size:35px;
 }
 
 nav {
@@ -36,7 +331,7 @@ nav {
 }
 
 nav ul li:hover {
-  background-color:lime;
+  background-color:grey;
 }
 
 .body-pad{
@@ -51,9 +346,22 @@ nav ul li:hover {
   text-align:center;
 }
 
+.main-titles {
+  font-family: 'Rokkit', serif;
+  font-size:50px;
+  padding-top:20px;
+  padding-bottom:30px;
+  display:block;
+}
+
 #projects {
   margin-top: 36vw;
+  padding-top: 50px;
+  padding-bottom: 50px;
   text-align: center;
+
+
+
 }
 
 #about-me img {
@@ -76,6 +384,9 @@ nav ul li:hover {
   text-align: center;
 }
 
+#loxa-img {
+  padding-bottom:80px;
+}
 hr {
   margin-bottom: 100px;
 }
